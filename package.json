@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "basic react",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shareena-begum/myapp.git"
+  },
+  "author": "Shareena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shareena-begum/myapp/issues"
+  },
+  "homepage": "https://github.com/shareena-begum/myapp#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
